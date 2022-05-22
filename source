@@ -31,7 +31,7 @@ Client = {
 		LookMeth = 'Look Up',                                                                                                                                                                                                                                                 
 		Test = '',
 		FOV = 150,
-		ChatMsg = 'Bolts Hub v6 Winning',
+		ChatMsg = 'Celestial Hub v1.01 Winning',
 		AimPart = 'Head'
 
 
@@ -42,7 +42,7 @@ Client = {
 
 local VLib = loadstring(game:HttpGet("https://raw.githubusercontent.com/vep1032/VepStuff/main/VL"))()
 
-local s = VLib:Window("Bolts Hub v6 Private", "Cracked by beans", "B")
+local s = VLib:Window("Celestial Hub v1.01", "Made by Beans", "B")
 
 local Combat = s:Tab("Combat")
 local Gunmods = s:Tab("Gun Mods")
